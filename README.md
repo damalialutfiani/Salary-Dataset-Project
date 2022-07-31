@@ -46,10 +46,13 @@ This Salary Dataset Project uses various tools, namely :
 3. **GDS or Google Data Studio** to *perform Data Visualization*.
 
 The following is a description of the file used :
-1. Cleaning data using python as in the **studycase_minicourse.py** file.
-2. Same as using python regarding the data exploration steps, only the file extension is different, where the file **Studycase_minicourse.ipynb** can be used for Jupyter Notebook.
-3. The file with the Power Point extension (**ASSIGNMENT2.pptx**) contains the steps and the results of the work that has been done.
-4. The file with the Portable Document Format (PDF) extension (**ASSIGNMENT2.pdf**) contains the steps and the results of the work same as the PPT file, that has been done.
+1. The original dataset is on **salary_dataset.csv** file.
+2. Cleaning data using python as in the **datacleaning_salary.py** file.
+3. Same as using python regarding the data exploration steps, only the file extension is different, where the file **datacleaning_salary.ipynb** can be used for Jupyter Notebook.
+4. The dataset that has been done Data Cleaning is in the **salary-dataset.csv** file.
+5. SQL query file that will be used for data visualization is contained in the **query.sql** file.
+6. The file with the Power Point extension (**ASSIGNMENT4.pptx**) contains the steps and the results of the work that has been done.
+7. The file with the Portable Document Format (PDF) extension (**ASSIGNMENT4.pdf**) contains the steps and the results of the work same as the PPT file, that has been done.
 
 The steps for Data Cleaning are as follows :
 1. Change data type : *last_review* column become datetime, *latitude and longitude* colume become objects
