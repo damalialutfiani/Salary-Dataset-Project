@@ -61,4 +61,4 @@ The steps for Data Cleaning are as follows :
 4. Remove outliers : Delete data that has a value that exceeds the upper and lower limits (*data outliers*) in the 'price' column, so that the total data becomes 45882
 5. Remove unnecessary data
 
--- In this project, we use Jupyter Notebook with python for Data Exploration --
+-- THANK YOU [@damalialutfiani](https://www.linkedin.com/in/damalialutfiani/) --
