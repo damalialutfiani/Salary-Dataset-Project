@@ -55,10 +55,10 @@ The following is a description of the file used :
 7. The file with the Portable Document Format (PDF) extension (**ASSIGNMENT4.pdf**) contains the steps and the results of the work same as the PPT file, that has been done.
 
 The steps for Data Cleaning are as follows :
-1. Change data type : *last_review* column become datetime, *latitude and longitude* colume become objects
-2. Remove duplicated data
-3. Remove empty data : Delete null data so the number of data becomes 48858
-4. Remove outliers : Delete data that has a value that exceeds the upper and lower limits (*data outliers*) in the 'price' column, so that the total data becomes 45882
+1. Change data type 
+2. Remove duplicated data : from 607 data to 562 data, where there are 45 duplicate data, which is 7.41% of the total data.
+3. Remove empty data 
+4. Remove outliers : Delete data that has a value that exceeds the upper and lower limits (data outliers) in the ‘salary_in_usd' column, so that the total data becomes 552.
 5. Remove unnecessary data
 
 -- THANK YOU [@damalialutfiani](https://www.linkedin.com/in/damalialutfiani/) --
