@@ -40,3 +40,22 @@ Taken from [kaggle.com by SAURABH SHAHANE](https://www.kaggle.com/datasets/saura
 
 I took this project from the study case assignment Mini Course Data Analytics Revou in the batch from July 25 to August 5, 2022
 
+This Salary Dataset Project uses various tools, namely :
+1. **Python with Google Colab** to *view data and perform data cleaning* before data is used,
+2. **Google BigQuery** to *create queries from datasets* so that they are ready for further visualization, and
+3. **GDS or Google Data Studio** to *perform Data Visualization*.
+
+The following is a description of the file used :
+1. Cleaning data using python as in the **studycase_minicourse.py** file.
+2. Same as using python regarding the data exploration steps, only the file extension is different, where the file **Studycase_minicourse.ipynb** can be used for Jupyter Notebook.
+3. The file with the Power Point extension (**ASSIGNMENT2.pptx**) contains the steps and the results of the work that has been done.
+4. The file with the Portable Document Format (PDF) extension (**ASSIGNMENT2.pdf**) contains the steps and the results of the work same as the PPT file, that has been done.
+
+The steps for Data Cleaning are as follows :
+1. Change data type : *last_review* column become datetime, *latitude and longitude* colume become objects
+2. Remove duplicated data
+3. Remove empty data : Delete null data so the number of data becomes 48858
+4. Remove outliers : Delete data that has a value that exceeds the upper and lower limits (*data outliers*) in the 'price' column, so that the total data becomes 45882
+5. Remove unnecessary data
+
+-- In this project, we use Jupyter Notebook with python for Data Exploration --
