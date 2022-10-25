@@ -42,9 +42,12 @@ This dataset contains information as follows :
     c. 100 - Fully remote (more than 80%)
 10. **company_location** : The country of the employer's main office or contracting branch as an ISO 3166 country code.
 11. **company_size** : The average number of people that worked for the company during the year:
-> a. S : less than 50 employees (small)
-> b. M : 50 to 250 employees (medium)
-> c. L : more than 250 employees (large)
+
+    a. S : less than 50 employees (small)
+
+    b. M : 50 to 250 employees (medium)
+
+    c. L : more than 250 employees (large)
 
 Taken from [kaggle.com by SAURABH SHAHANE](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries)
 -----------------------------------------------------------------------------------
