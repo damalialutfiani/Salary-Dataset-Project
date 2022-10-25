@@ -11,15 +11,23 @@ This Salary Dataset is Data that contains Job Salaries for Data Science jobs in 
 This dataset contains information as follows :
 1. **work_year** : The year during which the salary was paid.
 2. **experience_level** : The experience level in the job during the year with the following possible values:
-> a. EN : Entry-level / Junior 
-> b. MI : Mid-level / Intermediate
-> c. SE : Senior-level / Expert
-> d. EX : Executive-level / Director
+    
+     a. EN : Entry-level / Junior 
+    
+     b. MI : Mid-level / Intermediate
+    
+     c. SE : Senior-level / Expert
+    
+     d. EX : Executive-level / Director
 3. **employment_type** : The type of employement for the role:
-> a. PT (Part-time)
-> b. FT (Full-time)
-> c. CT (Contract)
-> d. FL (Freelance)
+
+    a. PT (Part-time)
+
+    b. FT (Full-time)
+
+    c. CT (Contract)
+
+    d. FL (Freelance)
 4. **job_title** : The role worked in during the year.
 5. **salary** : The total gross salary amount paid.
 6. **salary_currency** : The currency of the salary paid as an ISO 4217 currency code.
