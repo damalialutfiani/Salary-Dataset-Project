@@ -34,9 +34,12 @@ This dataset contains information as follows :
 7. **salary_in_usd** : The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com).
 8. **employee_residence** : Employee's primary country of residence in during the work year as an ISO 3166 country code.
 9. **remote_ratio** : The overall amount of work done remotely, possible values are as follows:
-> a. 0 - No remote work (less than 20%)
-> b. 50 - Partially remote
-> c. 100 - Fully remote (more than 80%)
+
+    a. 0 - No remote work (less than 20%)
+
+    b. 50 - Partially remote
+
+    c. 100 - Fully remote (more than 80%)
 10. **company_location** : The country of the employer's main office or contracting branch as an ISO 3166 country code.
 11. **company_size** : The average number of people that worked for the company during the year:
 > a. S : less than 50 employees (small)
