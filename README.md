@@ -49,7 +49,8 @@ This dataset contains information as follows :
 
     c. L : more than 250 employees (large)
 
-Taken from [kaggle.com by SAURABH SHAHANE](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries)
+-- Taken from [kaggle.com by SAURABH SHAHANE](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries) --
+
 -----------------------------------------------------------------------------------
 
 I took this project from the study case assignment Mini Course Data Analytics Revou in the batch from July 25 to August 5, 2022
